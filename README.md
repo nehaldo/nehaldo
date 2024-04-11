@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nehaldo
-- 🌱 I’m currently learning computer science at my university
+- 🌱 I’m currently learning computer science at university
 - 💞️ I’m looking to collaborate on some things maybe
-- ⚡ Fun fact: even though i am somputer science student, i am really bad at coding
+- ⚡ Fun fact: even though i am computer science student, i am really bad at coding
 
 <!---
 nehaldo/nehaldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
